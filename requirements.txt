@@ -1,0 +1,11 @@
+mediapipe==0.10.21
+opencv-python
+numpy
+pandas<3
+scipy
+scikit-learn
+xgboost
+joblib
+onnx<1.23
+onnxmltools
+skl2onnx
